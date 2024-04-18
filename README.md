@@ -1,4 +1,4 @@
-# MCTiers-Minecraft-Plugin
+# EmojiAdder
 
 ## About
 
