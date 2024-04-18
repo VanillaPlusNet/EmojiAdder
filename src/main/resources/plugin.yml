@@ -1,0 +1,7 @@
+name: EmojiAdder
+version: '${project.version}'
+main: dev.goldenedit.emojiadder.EmojiAdder
+api-version: '1.20'
+permissions:
+  emojichat.use:
+    description: Allow player to use emojis in chat.
